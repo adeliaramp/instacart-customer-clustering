@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+plotly
+umap-learn
+pyarrow
+kagglehub
+ipykernel
+jupyter
+tqdm
+joblib
+pyyaml
+seaborn
