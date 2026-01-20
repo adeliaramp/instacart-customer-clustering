@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# =========================
+# Data science project
+# =========================
+
+# raw / cached datasets
+data/
+
+# generated outputs (features, models, plots)
+artifacts/
+
+# kaggle credentials
+.kaggle/
